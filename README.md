@@ -35,4 +35,4 @@ Meu sonho : Me tornar um desenvolvedor de jogos indies.
 </div>
 
 ![Snake animation](https://github.com/lordnerd/lordnerd/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
