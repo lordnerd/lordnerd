@@ -24,9 +24,9 @@ Meu sonho : Me tornar um desenvolvedor de jogos indies.
 <a href="mailto:vinnycfreitas1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-😄 Pronouns: Ele/Dele
+😄 Pronomes: Ele/Dele
 
-⚡ Curiosidade: Faço "beats" no meu tempo livre, além de ler e escrever histórias
+⚡ Curiosidade sobre mim: Faço "beats" no meu tempo livre, além de ler e escrever histórias
 
 <div>
 <a href="https://github.com/lordnerd">
