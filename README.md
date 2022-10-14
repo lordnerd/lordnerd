@@ -34,5 +34,5 @@ Meu sonho : Me tornar um desenvolvedor de jogos indies.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordnerd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/lordnerd/lordnerd/blob/output/github-contribution-grid-snake.svg)
 
